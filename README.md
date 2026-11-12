@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Olá, eu sou o Gio 👋
+# Olá, eu sou a Giovanna 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara.
 
