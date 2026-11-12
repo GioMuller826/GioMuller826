@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Olá, eu sou a Giovanna 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara.
@@ -25,5 +25,3 @@ Engenharia de software, sistemas operacionais, uso de IA no ensino de programaç
 - LinkedIn: www.linkedin.com/in/giovanna-müller-6b6580311
 - E-mail: mulleranjos.giovanna08@gmail.com
 
-<!-- Opcional: estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
