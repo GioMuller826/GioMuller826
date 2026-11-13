@@ -20,7 +20,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara.
 
 ## 📚 Interesses
 
-Engenharia de software, sistemas operacionais, uso de IA no ensino de programação.
+Engenharia de software, análise de dados, gestão de processos com IA.
 
 ## 📫 Contato
 
