@@ -15,7 +15,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara.
 
 - Programação orientada a objetos (herança, polimorfismo, interfaces, tratamento de exceções)
 - Desenvolvimento Web com Java (Servlets) e interfaces gráficas com Swing
-- Shell script e permissões no Linux
 - Levantamento de requisitos, user stories e planejamento de testes
 
 ## 📚 Interesses
